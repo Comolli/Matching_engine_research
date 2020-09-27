@@ -24,4 +24,4 @@
         >  Atomic multicast is used to solve the problem of reliable multicast and global ordering for matching engine orders
         >  The matching technology of pipeline based on unlocked order queue is adopted to provide fast order matching
         >  Asynchronous consistent persistence technology is used to realize the interaction with the database
-        > Failure reserve is used to monitor the status of the matching engine cluster and ensure the fault tolerance of the system
+        >  Failure reserve is used to monitor the status of the matching engine cluster and ensure the fault tolerance of the system
