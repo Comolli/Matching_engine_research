@@ -8,11 +8,12 @@
         >  4 sort orders 
 
 * ### Virtual synchronization model （like message queue）
-
+> ----------------
 > ## Problems
 * Low trading speed
 * Long latency 
 * Bad fault-tolerant 
+>--------------
 > ## target
 * High fault-torrent
 * High-performance matching orders algorithm
